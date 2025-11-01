@@ -2,7 +2,15 @@
 
 - ISO 690
 
+# ***Enllaç al perfil de Tableau Public on es podran veure totes les visualitzacions:***
+
+https://public.tableau.com/app/profile/marc.cervera.rosell/vizzes
+
 # ***Alluvial Diagram:***
+
+## Visualització:
+
+https://public.tableau.com/app/profile/marc.cervera.rosell/viz/Diagramaalluvial-personesenedatdetreballarpersexeedaticiutadania-EuropadelSud/Hoja1
 
 ## Dataset:
 
