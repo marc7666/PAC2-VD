@@ -36,6 +36,10 @@ _ILOSTAT data explorer_ [en línia] [consulta: 31 d'octubre de 2025]. Disponible
 
 # ***Violin plot:***
 
+## Visualització:
+
+![violin_plot_png.png](violin_plot_png.png)
+
 ## Dataset:
 
 _Data Science Student Marks_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://www.kaggle.com/datasets/ayeshaimran123/data-science-student-marks
@@ -55,6 +59,14 @@ _Kernel smoother_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: ht
 ## Dataset:
 
 _H&M Stores Dataset (2022)_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: https://www.kaggle.com/datasets/shivamb/hm-stores-dataset
+
+## Referències externes (al codi - build_violin_diagram.R):
+
+[Ref.9] -- _Seleccionar columnas en R con dplyr_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://r-coder.com/select-dplyr-en-r/
+
+[Ref.10] -- _ggplot2 violin plot : Quick start guide - R software and data visualization_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://www.sthda.com/english/wiki/ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization
+
+[Ref.11] -- _Modify axis, legend, and plot labels_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://ggplot2.tidyverse.org/reference/labs.html
 
 ## Links:
 
