@@ -36,6 +36,10 @@ _ILOSTAT data explorer_ [en línia] [consulta: 31 d'octubre de 2025]. Disponible
 
 # ***Violin plot:***
 
+## Dataset:
+
+_Data Science Student Marks_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://www.kaggle.com/datasets/ayeshaimran123/data-science-student-marks
+
 ## Limitacions violin plot:
 
 _Gráfico de Densidad_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: https://datavizcatalogue.com/ES/metodos/grafico_de_densidad.html
