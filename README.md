@@ -4,13 +4,13 @@
 
 # ***Enllaç al perfil de Tableau Public on es podran veure totes les visualitzacions:***
 
-https://public.tableau.com/app/profile/marc.cervera.rosell/vizzes
+[Enllaç al perfil de Tableau Public](https://public.tableau.com/app/profile/marc.cervera.rosell/vizzes)
 
 # ***Alluvial Diagram:***
 
 ## Visualització:
 
-https://public.tableau.com/app/profile/marc.cervera.rosell/viz/Diagramaalluvial-personesenedatdetreballarpersexeedaticiutadania-EuropadelSud/Hoja1
+[Enllaç a la visualització - Alluvial Diagram](https://public.tableau.com/app/profile/marc.cervera.rosell/viz/Diagramaalluvial-personesenedatdetreballarpersexeedaticiutadania-EuropadelSud/Hoja1)
 
 ## Dataset:
 
@@ -46,7 +46,7 @@ _Kernel smoother_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: ht
 
 ## Visualització:
 
-https://public.tableau.com/app/profile/marc.cervera.rosell/viz/MapadepresnciadelacadenaHManivellmundial/MapapresenciaHMmundial
+[Enllaç a la visualització - Dot Density Map](https://public.tableau.com/app/profile/marc.cervera.rosell/viz/MapadepresnciadelacadenaHManivellmundial/MapapresenciaHMmundial)
 
 ## Dataset:
 
