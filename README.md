@@ -1,6 +1,8 @@
-# ***Alluvial Diagram:***
+# ***Estil de citació de les referències externes:***
 
-**Estil de citació: ISO 690**
+- ISO 690
+
+# ***Alluvial Diagram:***
 
 ## Dataset:
 
