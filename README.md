@@ -16,7 +16,7 @@
 
 _ILOSTAT data explorer_ [en línia] [consulta: 31 d'octubre de 2025]. Disponible a: https://rshiny.ilo.org/dataexplorer42/?lang=en&segment=indicator&id=MST_XWAP_SEX_AGE_CCT_NB_A
 
-## Referències externes (al codi):
+## Referències externes (al codi - clean_alluvial_dapa.py):
 
 [Ref.1] -- _pandas.read_csv_ [en línia] [consulta: 31 d'octubre de 2025]. Disponible a: https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 
