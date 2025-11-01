@@ -1,0 +1,550 @@
+country,sex,age,citizenship,value
+Austria,Male,15-24,National citizens,357910
+Austria,Male,15-24,Foreign citizens,98460
+Austria,Male,25-54,National citizens,1364425
+Austria,Male,25-54,Foreign citizens,476540
+Austria,Male,55-64,National citizens,583334
+Austria,Male,55-64,Foreign citizens,90688
+Austria,Male,65+,National citizens,732040
+Austria,Male,65+,Foreign citizens,54742
+Austria,Female,15-24,National citizens,354439
+Austria,Female,15-24,Foreign citizens,96056
+Austria,Female,25-54,National citizens,1335430
+Austria,Female,25-54,Foreign citizens,486670
+Austria,Female,55-64,National citizens,598705
+Austria,Female,55-64,Foreign citizens,89478
+Austria,Female,65+,National citizens,904336
+Austria,Female,65+,Foreign citizens,74271
+Belgium,Male,15-24,National citizens,631031
+Belgium,Male,15-24,Foreign citizens,67200
+Belgium,Male,25-54,National citizens,1924257
+Belgium,Male,25-54,Foreign citizens,345455
+Belgium,Male,55-64,National citizens,695979
+Belgium,Male,55-64,Foreign citizens,76944
+Belgium,Male,65+,National citizens,968041
+Belgium,Male,65+,Foreign citizens,72096
+Belgium,Female,15-24,National citizens,605335
+Belgium,Female,15-24,Foreign citizens,65651
+Belgium,Female,25-54,National citizens,1881952
+Belgium,Female,25-54,Foreign citizens,389002
+Belgium,Female,55-64,National citizens,700915
+Belgium,Female,55-64,Foreign citizens,73209
+Belgium,Female,65+,National citizens,1163607
+Belgium,Female,65+,Foreign citizens,76960
+Bulgaria,Male,15-24,National citizens,303766
+Bulgaria,Male,25-54,National citizens,1267396
+Bulgaria,Male,25-54,Foreign citizens,3978
+Bulgaria,Male,55-64,National citizens,433482
+Bulgaria,Male,65+,National citizens,603570
+Bulgaria,Female,15-24,National citizens,287149
+Bulgaria,Female,25-54,National citizens,1208974
+Bulgaria,Female,25-54,Foreign citizens,3553
+Bulgaria,Female,55-64,National citizens,464858
+Bulgaria,Female,65+,National citizens,925326
+Bosnia and Herzegovina,Male,15-24,National citizens,184937
+Bosnia and Herzegovina,Male,15-24,Foreign citizens,291
+Bosnia and Herzegovina,Male,25-54,National citizens,714418
+Bosnia and Herzegovina,Male,25-54,Foreign citizens,763
+Bosnia and Herzegovina,Male,55-64,National citizens,237510
+Bosnia and Herzegovina,Male,65+,National citizens,271084
+Bosnia and Herzegovina,Male,65+,Foreign citizens,388
+Bosnia and Herzegovina,Female,15-24,National citizens,174817
+Bosnia and Herzegovina,Female,25-54,National citizens,688299
+Bosnia and Herzegovina,Female,25-54,Foreign citizens,952
+Bosnia and Herzegovina,Female,55-64,National citizens,254658
+Bosnia and Herzegovina,Female,55-64,Foreign citizens,148
+Bosnia and Herzegovina,Female,65+,National citizens,363454
+Bosnia and Herzegovina,Female,65+,Foreign citizens,339
+Belarus,Male,15-24,National citizens,484636
+Belarus,Male,15-24,Foreign citizens,4502
+Belarus,Male,25-54,National citizens,1858606
+Belarus,Male,25-54,Foreign citizens,23648
+Belarus,Male,55-64,National citizens,552997
+Belarus,Male,55-64,Foreign citizens,6024
+Belarus,Male,65+,National citizens,383563
+Belarus,Male,65+,Foreign citizens,4021
+Belarus,Female,15-24,National citizens,459449
+Belarus,Female,15-24,Foreign citizens,4664
+Belarus,Female,25-54,National citizens,1969418
+Belarus,Female,25-54,Foreign citizens,15515
+Belarus,Female,55-64,National citizens,704698
+Belarus,Female,55-64,Foreign citizens,5176
+Belarus,Female,65+,National citizens,628034
+Belarus,Female,65+,Foreign citizens,4961
+Switzerland,Male,15-24,National citizens,348415
+Switzerland,Male,15-24,Foreign citizens,113727
+Switzerland,Male,25-54,National citizens,1177737
+Switzerland,Male,25-54,Foreign citizens,682799
+Switzerland,Male,55-64,National citizens,477000
+Switzerland,Male,55-64,Foreign citizens,144151
+Switzerland,Male,65+,National citizens,687573
+Switzerland,Male,65+,Foreign citizens,100575
+Switzerland,Female,15-24,National citizens,333476
+Switzerland,Female,15-24,Foreign citizens,100262
+Switzerland,Female,25-54,National citizens,1201234
+Switzerland,Female,25-54,Foreign citizens,612092
+Switzerland,Female,55-64,National citizens,504706
+Switzerland,Female,55-64,Foreign citizens,114497
+Switzerland,Female,65+,National citizens,857265
+Switzerland,Female,65+,Foreign citizens,94477
+Czechia,Male,15-24,National citizens,523953
+Czechia,Male,15-24,Foreign citizens,17528
+Czechia,Male,25-54,National citizens,2097800
+Czechia,Male,25-54,Foreign citizens,120387
+Czechia,Male,55-64,National citizens,601744
+Czechia,Male,55-64,Foreign citizens,12848
+Czechia,Male,65+,National citizens,890906
+Czechia,Male,65+,Foreign citizens,5716
+Czechia,Female,15-24,National citizens,530294
+Czechia,Female,15-24,Foreign citizens,17890
+Czechia,Female,25-54,National citizens,1967453
+Czechia,Female,25-54,Foreign citizens,125788
+Czechia,Female,55-64,National citizens,604347
+Czechia,Female,55-64,Foreign citizens,7373
+Czechia,Female,65+,National citizens,1263335
+Czechia,Female,65+,Foreign citizens,10198
+Germany,Male,15-24,National citizens,3586479
+Germany,Male,15-24,Foreign citizens,701210
+Germany,Male,25-54,National citizens,12521952
+Germany,Male,25-54,Foreign citizens,3488364
+Germany,Male,55-64,National citizens,5851049
+Germany,Male,55-64,Foreign citizens,650163
+Germany,Male,65+,National citizens,7839050
+Germany,Male,65+,Foreign citizens,588267
+Germany,Female,15-24,National citizens,3411022
+Germany,Female,15-24,Foreign citizens,577359
+Germany,Female,25-54,National citizens,12281201
+Germany,Female,25-54,Foreign citizens,3195213
+Germany,Female,55-64,National citizens,5948525
+Germany,Female,55-64,Foreign citizens,623628
+Germany,Female,65+,National citizens,9773548
+Germany,Female,65+,Foreign citizens,639838
+Denmark,Male,15-24,National citizens,343290
+Denmark,Male,15-24,Foreign citizens,20002
+Denmark,Male,25-54,National citizens,1021052
+Denmark,Male,25-54,Foreign citizens,129471
+Denmark,Male,55-64,National citizens,377861
+Denmark,Male,55-64,Foreign citizens,14413
+Denmark,Male,65+,National citizens,564412
+Denmark,Male,65+,Foreign citizens,12244
+Denmark,Female,15-24,National citizens,331382
+Denmark,Female,15-24,Foreign citizens,19636
+Denmark,Female,25-54,National citizens,1006055
+Denmark,Female,25-54,Foreign citizens,122820
+Denmark,Female,55-64,National citizens,378659
+Denmark,Female,55-64,Foreign citizens,15061
+Denmark,Female,65+,National citizens,656925
+Denmark,Female,65+,Foreign citizens,14882
+Spain,Male,15-24,National citizens,2369250
+Spain,Male,15-24,Foreign citizens,349023
+Spain,Male,25-54,National citizens,8269972
+Spain,Male,25-54,Foreign citizens,1803991
+Spain,Male,55-64,National citizens,3069561
+Spain,Male,55-64,Foreign citizens,302720
+Spain,Male,65+,National citizens,4083150
+Spain,Male,65+,Foreign citizens,234772
+Spain,Female,15-24,National citizens,2210357
+Spain,Female,15-24,Foreign citizens,347910
+Spain,Female,25-54,National citizens,7965432
+Spain,Female,25-54,Foreign citizens,2007014
+Spain,Female,55-64,National citizens,3214406
+Spain,Female,55-64,Foreign citizens,315305
+Spain,Female,65+,National citizens,5224784
+Spain,Female,65+,Foreign citizens,329518
+Estonia,Male,15-24,National citizens,62192
+Estonia,Male,15-24,Foreign citizens,6651
+Estonia,Male,25-54,National citizens,227518
+Estonia,Male,25-54,Foreign citizens,56509
+Estonia,Male,55-64,National citizens,62416
+Estonia,Male,55-64,Foreign citizens,16540
+Estonia,Male,65+,National citizens,72122
+Estonia,Male,65+,Foreign citizens,24516
+Estonia,Female,15-24,National citizens,62557
+Estonia,Female,15-24,Foreign citizens,7254
+Estonia,Female,25-54,National citizens,226041
+Estonia,Female,25-54,Foreign citizens,45680
+Estonia,Female,55-64,National citizens,75304
+Estonia,Female,55-64,Foreign citizens,15142
+Estonia,Female,65+,National citizens,145541
+Estonia,Female,65+,Foreign citizens,30111
+Finland,Male,15-24,National citizens,285051
+Finland,Male,15-24,Foreign citizens,17979
+Finland,Male,25-54,National citizens,979325
+Finland,Male,25-54,Foreign citizens,115341
+Finland,Male,55-64,National citizens,346216
+Finland,Male,55-64,Foreign citizens,10216
+Finland,Male,65+,National citizens,564165
+Finland,Male,65+,Foreign citizens,4876
+Finland,Female,15-24,National citizens,285866
+Finland,Female,15-24,Foreign citizens,17325
+Finland,Female,25-54,National citizens,931292
+Finland,Female,25-54,Foreign citizens,101516
+Finland,Female,55-64,National citizens,347837
+Finland,Female,55-64,Foreign citizens,12540
+Finland,Female,65+,National citizens,687439
+Finland,Female,65+,Foreign citizens,5747
+France,Male,15-24,National citizens,3792527
+France,Male,15-24,Foreign citizens,236054
+France,Male,25-54,National citizens,10858701
+France,Male,25-54,Foreign citizens,1182573
+France,Male,55-64,National citizens,3873943
+France,Male,55-64,Foreign citizens,280557
+France,Male,65+,National citizens,5884740
+France,Male,65+,Foreign citizens,347660
+France,Female,15-24,National citizens,3672791
+France,Female,15-24,Foreign citizens,211951
+France,Female,25-54,National citizens,11189730
+France,Female,25-54,Foreign citizens,1383725
+France,Female,55-64,National citizens,4162107
+France,Female,55-64,Foreign citizens,282839
+France,Female,65+,National citizens,7528109
+France,Female,65+,Foreign citizens,365051
+United Kingdom of Great Britain and Northern Ireland,Male,15-24,National citizens,3539729
+United Kingdom of Great Britain and Northern Ireland,Male,15-24,Foreign citizens,553554
+United Kingdom of Great Britain and Northern Ireland,Male,25-54,National citizens,10513024
+United Kingdom of Great Britain and Northern Ireland,Male,25-54,Foreign citizens,2467230
+United Kingdom of Great Britain and Northern Ireland,Male,55-64,National citizens,3950015
+United Kingdom of Great Britain and Northern Ireland,Male,55-64,Foreign citizens,375845
+United Kingdom of Great Britain and Northern Ireland,Male,65+,National citizens,5590518
+United Kingdom of Great Britain and Northern Ireland,Male,65+,Foreign citizens,329826
+United Kingdom of Great Britain and Northern Ireland,Female,15-24,National citizens,3411816
+United Kingdom of Great Britain and Northern Ireland,Female,15-24,Foreign citizens,538604
+United Kingdom of Great Britain and Northern Ireland,Female,25-54,National citizens,10722838
+United Kingdom of Great Britain and Northern Ireland,Female,25-54,Foreign citizens,2902632
+United Kingdom of Great Britain and Northern Ireland,Female,55-64,National citizens,4156915
+United Kingdom of Great Britain and Northern Ireland,Female,55-64,Foreign citizens,367040
+United Kingdom of Great Britain and Northern Ireland,Female,65+,National citizens,6383313
+United Kingdom of Great Britain and Northern Ireland,Female,65+,Foreign citizens,439193
+Greece,Male,15-24,National citizens,522221
+Greece,Male,15-24,Foreign citizens,12826
+Greece,Male,25-54,National citizens,1957526
+Greece,Male,25-54,Foreign citizens,89804
+Greece,Male,55-64,National citizens,672382
+Greece,Male,55-64,Foreign citizens,13083
+Greece,Male,65+,National citizens,1080886
+Greece,Male,65+,Foreign citizens,10142
+Greece,Female,15-24,National citizens,513676
+Greece,Female,15-24,Foreign citizens,16737
+Greece,Female,25-54,National citizens,1880569
+Greece,Female,25-54,Foreign citizens,103239
+Greece,Female,55-64,National citizens,747331
+Greece,Female,55-64,Foreign citizens,22237
+Greece,Female,65+,National citizens,1358987
+Greece,Female,65+,Foreign citizens,16398
+Croatia,Male,15-24,National citizens,203967
+Croatia,Male,25-54,National citizens,754176
+Croatia,Male,25-54,Foreign citizens,8039
+Croatia,Male,55-64,National citizens,255800
+Croatia,Male,55-64,Foreign citizens,1718
+Croatia,Male,65+,National citizens,366055
+Croatia,Male,65+,Foreign citizens,1915
+Croatia,Female,15-24,National citizens,186996
+Croatia,Female,25-54,National citizens,718345
+Croatia,Female,25-54,Foreign citizens,8157
+Croatia,Female,55-64,National citizens,281405
+Croatia,Female,55-64,Foreign citizens,1962
+Croatia,Female,65+,National citizens,498084
+Croatia,Female,65+,Foreign citizens,2036
+Hungary,Male,15-24,National citizens,491346
+Hungary,Male,15-24,Foreign citizens,6669
+Hungary,Male,25-54,National citizens,1997579
+Hungary,Male,25-54,Foreign citizens,26710
+Hungary,Male,55-64,National citizens,550053
+Hungary,Male,65+,National citizens,743882
+Hungary,Male,65+,Foreign citizens,4661
+Hungary,Female,15-24,National citizens,464914
+Hungary,Female,15-24,Foreign citizens,7491
+Hungary,Female,25-54,National citizens,1924512
+Hungary,Female,25-54,Foreign citizens,19007
+Hungary,Female,55-64,National citizens,598186
+Hungary,Female,55-64,Foreign citizens,3085
+Hungary,Female,65+,National citizens,1167948
+Hungary,Female,65+,Foreign citizens,4939
+Ireland,Male,15-24,National citizens,313366
+Ireland,Male,15-24,Foreign citizens,39414
+Ireland,Male,25-54,National citizens,816674
+Ireland,Male,25-54,Foreign citizens,278191
+Ireland,Male,55-64,National citizens,280674
+Ireland,Male,55-64,Foreign citizens,23739
+Ireland,Male,65+,National citizens,375788
+Ireland,Male,65+,Foreign citizens,18864
+Ireland,Female,15-24,National citizens,295766
+Ireland,Female,15-24,Foreign citizens,33974
+Ireland,Female,25-54,National citizens,840869
+Ireland,Female,25-54,Foreign citizens,303848
+Ireland,Female,55-64,National citizens,290022
+Ireland,Female,55-64,Foreign citizens,23944
+Ireland,Female,65+,National citizens,421827
+Ireland,Female,65+,Foreign citizens,20377
+Iceland,Male,15-24,National citizens,22005
+Iceland,Male,15-24,Foreign citizens,1246
+Iceland,Male,25-54,National citizens,74640
+Iceland,Male,25-54,Foreign citizens,13512
+Iceland,Male,55-64,National citizens,20569
+Iceland,Male,55-64,Foreign citizens,1267
+Iceland,Male,65+,National citizens,28079
+Iceland,Female,15-24,National citizens,19288
+Iceland,Female,15-24,Foreign citizens,1650
+Iceland,Female,25-54,National citizens,65562
+Iceland,Female,25-54,Foreign citizens,12001
+Iceland,Female,55-64,National citizens,20849
+Iceland,Female,55-64,Foreign citizens,1014
+Iceland,Female,65+,National citizens,29423
+Italy,Male,15-24,National citizens,2740681
+Italy,Male,15-24,Foreign citizens,274287
+Italy,Male,25-54,National citizens,9804061
+Italy,Male,25-54,Foreign citizens,1430178
+Italy,Male,55-64,National citizens,4197643
+Italy,Male,55-64,Foreign citizens,205187
+Italy,Male,65+,National citizens,6162827
+Italy,Male,65+,Foreign citizens,90249
+Italy,Female,15-24,National citizens,2593083
+Italy,Female,15-24,Foreign citizens,215305
+Italy,Female,25-54,National citizens,9642107
+Italy,Female,25-54,Foreign citizens,1501212
+Italy,Female,55-64,National citizens,4319446
+Italy,Female,55-64,Foreign citizens,307175
+Italy,Female,65+,National citizens,7697163
+Italy,Female,65+,Foreign citizens,176904
+Kosovo,Male,15-24,National citizens,133322
+Kosovo,Male,25-54,National citizens,319047
+Kosovo,Male,25-54,Foreign citizens,1299
+Kosovo,Male,55-64,National citizens,83355
+Kosovo,Male,55-64,Foreign citizens,171
+Kosovo,Male,65+,National citizens,84192
+Kosovo,Male,65+,Foreign citizens,221
+Kosovo,Female,15-24,National citizens,124954
+Kosovo,Female,15-24,Foreign citizens,313
+Kosovo,Female,25-54,National citizens,320843
+Kosovo,Female,25-54,Foreign citizens,977
+Kosovo,Female,55-64,National citizens,90058
+Kosovo,Female,55-64,Foreign citizens,285
+Kosovo,Female,65+,National citizens,93467
+Lithuania,Male,15-24,National citizens,140402
+Lithuania,Male,15-24,Foreign citizens,2087
+Lithuania,Male,25-54,National citizens,595541
+Lithuania,Male,25-54,Foreign citizens,17469
+Lithuania,Male,55-64,National citizens,192285
+Lithuania,Male,55-64,Foreign citizens,2135
+Lithuania,Male,65+,National citizens,211031
+Lithuania,Male,65+,Foreign citizens,1778
+Lithuania,Female,15-24,National citizens,130489
+Lithuania,Female,15-24,Foreign citizens,3729
+Lithuania,Female,25-54,National citizens,552311
+Lithuania,Female,25-54,Foreign citizens,15389
+Lithuania,Female,55-64,National citizens,226667
+Lithuania,Female,55-64,Foreign citizens,2239
+Lithuania,Female,65+,National citizens,383847
+Lithuania,Female,65+,Foreign citizens,1449
+Luxembourg,Male,15-24,National citizens,24386
+Luxembourg,Male,15-24,Foreign citizens,13078
+Luxembourg,Male,25-54,National citizens,65647
+Luxembourg,Male,25-54,Foreign citizens,88012
+Luxembourg,Male,55-64,National citizens,22577
+Luxembourg,Male,55-64,Foreign citizens,20146
+Luxembourg,Male,65+,National citizens,30494
+Luxembourg,Male,65+,Foreign citizens,15096
+Luxembourg,Female,15-24,National citizens,23263
+Luxembourg,Female,15-24,Foreign citizens,12137
+Luxembourg,Female,25-54,National citizens,65824
+Luxembourg,Female,25-54,Foreign citizens,83674
+Luxembourg,Female,55-64,National citizens,23291
+Luxembourg,Female,55-64,Foreign citizens,17209
+Luxembourg,Female,65+,National citizens,34604
+Luxembourg,Female,65+,Foreign citizens,15794
+Latvia,Male,15-24,National citizens,92673
+Latvia,Male,15-24,Foreign citizens,3441
+Latvia,Male,25-54,National citizens,316255
+Latvia,Male,25-54,Foreign citizens,42394
+Latvia,Male,55-64,National citizens,92554
+Latvia,Male,55-64,Foreign citizens,21573
+Latvia,Male,65+,National citizens,97083
+Latvia,Male,65+,Foreign citizens,36996
+Latvia,Female,15-24,National citizens,88236
+Latvia,Female,15-24,Foreign citizens,3929
+Latvia,Female,25-54,National citizens,322915
+Latvia,Female,25-54,Foreign citizens,34377
+Latvia,Female,55-64,National citizens,115970
+Latvia,Female,55-64,Foreign citizens,24198
+Latvia,Female,65+,National citizens,201655
+Latvia,Female,65+,Foreign citizens,57369
+Republic of Moldova,Male,15-24,National citizens,118275
+Republic of Moldova,Male,15-24,Foreign citizens,1176
+Republic of Moldova,Male,25-54,National citizens,469288
+Republic of Moldova,Male,25-54,Foreign citizens,2501
+Republic of Moldova,Male,55-64,National citizens,158424
+Republic of Moldova,Male,55-64,Foreign citizens,1094
+Republic of Moldova,Male,65+,National citizens,161160
+Republic of Moldova,Male,65+,Foreign citizens,433
+Republic of Moldova,Female,15-24,National citizens,117376
+Republic of Moldova,Female,15-24,Foreign citizens,693
+Republic of Moldova,Female,25-54,National citizens,517004
+Republic of Moldova,Female,25-54,Foreign citizens,3176
+Republic of Moldova,Female,55-64,National citizens,188625
+Republic of Moldova,Female,55-64,Foreign citizens,887
+Republic of Moldova,Female,65+,National citizens,258341
+Republic of Moldova,Female,65+,Foreign citizens,881
+Malta,Male,15-24,National citizens,21710
+Malta,Male,15-24,Foreign citizens,6612
+Malta,Male,25-54,National citizens,84429
+Malta,Male,25-54,Foreign citizens,73647
+Malta,Male,55-64,National citizens,23543
+Malta,Male,55-64,Foreign citizens,6749
+Malta,Male,65+,National citizens,44068
+Malta,Male,65+,Foreign citizens,2921
+Malta,Female,15-24,National citizens,20297
+Malta,Female,15-24,Foreign citizens,4149
+Malta,Female,25-54,National citizens,76201
+Malta,Female,25-54,Foreign citizens,47356
+Malta,Female,55-64,National citizens,23004
+Malta,Female,55-64,Foreign citizens,5660
+Malta,Female,65+,National citizens,48437
+Malta,Female,65+,Foreign citizens,2856
+Netherlands,Male,15-24,National citizens,1031376
+Netherlands,Male,15-24,Foreign citizens,71619
+Netherlands,Male,25-54,National citizens,3110765
+Netherlands,Male,25-54,Foreign citizens,289866
+Netherlands,Male,55-64,National citizens,1183824
+Netherlands,Male,55-64,Foreign citizens,38213
+Netherlands,Male,65+,National citizens,1612570
+Netherlands,Male,65+,Foreign citizens,30719
+Netherlands,Female,15-24,National citizens,999664
+Netherlands,Female,15-24,Foreign citizens,67796
+Netherlands,Female,25-54,National citizens,3058224
+Netherlands,Female,25-54,Foreign citizens,334162
+Netherlands,Female,55-64,National citizens,1192766
+Netherlands,Female,55-64,Foreign citizens,36450
+Netherlands,Female,65+,National citizens,1776505
+Netherlands,Female,65+,Foreign citizens,30798
+Norway,Male,15-24,National citizens,311752
+Norway,Male,15-24,Foreign citizens,24793
+Norway,Male,25-54,National citizens,973212
+Norway,Male,25-54,Foreign citizens,171695
+Norway,Male,55-64,National citizens,319983
+Norway,Male,55-64,Foreign citizens,29942
+Norway,Male,65+,National citizens,479068
+Norway,Male,65+,Foreign citizens,10694
+Norway,Female,15-24,National citizens,298684
+Norway,Female,15-24,Foreign citizens,22150
+Norway,Female,25-54,National citizens,933827
+Norway,Female,25-54,Foreign citizens,165671
+Norway,Female,55-64,National citizens,315575
+Norway,Female,55-64,Foreign citizens,23304
+Norway,Female,65+,National citizens,526134
+Norway,Female,65+,Foreign citizens,15616
+Poland,Male,15-24,National citizens,1773626
+Poland,Male,15-24,Foreign citizens,38562
+Poland,Male,25-54,National citizens,7543373
+Poland,Male,25-54,Foreign citizens,176811
+Poland,Male,55-64,National citizens,2056060
+Poland,Male,55-64,Foreign citizens,8909
+Poland,Male,65+,National citizens,2951637
+Poland,Male,65+,Foreign citizens,8549
+Poland,Female,15-24,National citizens,1689606
+Poland,Female,15-24,Foreign citizens,42516
+Poland,Female,25-54,National citizens,7362610
+Poland,Female,25-54,Foreign citizens,182549
+Poland,Female,55-64,National citizens,2239308
+Poland,Female,55-64,Foreign citizens,9296
+Poland,Female,65+,National citizens,4257684
+Poland,Female,65+,Foreign citizens,8826
+Portugal,Male,15-24,National citizens,518726
+Portugal,Male,15-24,Foreign citizens,32258
+Portugal,Male,25-54,National citizens,1868920
+Portugal,Male,25-54,Foreign citizens,148526
+Portugal,Male,55-64,National citizens,684909
+Portugal,Male,55-64,Foreign citizens,15834
+Portugal,Male,65+,National citizens,1114085
+Portugal,Male,65+,Foreign citizens,12258
+Portugal,Female,15-24,National citizens,493736
+Portugal,Female,15-24,Foreign citizens,37648
+Portugal,Female,25-54,National citizens,1932319
+Portugal,Female,25-54,Foreign citizens,174614
+Portugal,Female,55-64,National citizens,778923
+Portugal,Female,55-64,Foreign citizens,19840
+Portugal,Female,65+,National citizens,1459130
+Portugal,Female,65+,Foreign citizens,17400
+Romania,Male,15-24,National citizens,1055327
+Romania,Male,25-54,National citizens,4003365
+Romania,Male,25-54,Foreign citizens,15434
+Romania,Male,55-64,National citizens,1093196
+Romania,Male,65+,National citizens,1508436
+Romania,Female,15-24,National citizens,1001231
+Romania,Female,25-54,National citizens,3828118
+Romania,Female,25-54,Foreign citizens,9930
+Romania,Female,55-64,National citizens,1173598
+Romania,Female,65+,National citizens,2260144
+Russian Federation,Male,15-24,National citizens,7567286
+Russian Federation,Male,15-24,Foreign citizens,45350
+Russian Federation,Male,25-54,National citizens,29871235
+Russian Federation,Male,25-54,Foreign citizens,173503
+Russian Federation,Male,55-64,National citizens,8342642
+Russian Federation,Male,55-64,Foreign citizens,8724
+Russian Federation,Male,65+,National citizens,8225392
+Russian Federation,Male,65+,Foreign citizens,3323
+Russian Federation,Female,15-24,National citizens,7139078
+Russian Federation,Female,15-24,Foreign citizens,17020
+Russian Federation,Female,25-54,National citizens,31566848
+Russian Federation,Female,25-54,Foreign citizens,77738
+Russian Federation,Female,55-64,National citizens,10744641
+Russian Federation,Female,55-64,Foreign citizens,6864
+Russian Federation,Female,65+,National citizens,15530493
+Russian Federation,Female,65+,Foreign citizens,5697
+Serbia,Male,15-24,National citizens,343256
+Serbia,Male,15-24,Foreign citizens,879
+Serbia,Male,25-54,National citizens,1292316
+Serbia,Male,25-54,Foreign citizens,6900
+Serbia,Male,55-64,National citizens,428099
+Serbia,Male,55-64,Foreign citizens,527
+Serbia,Male,65+,National citizens,643091
+Serbia,Male,65+,Foreign citizens,909
+Serbia,Female,15-24,National citizens,326777
+Serbia,Female,15-24,Foreign citizens,411
+Serbia,Female,25-54,National citizens,1272312
+Serbia,Female,25-54,Foreign citizens,6830
+Serbia,Female,55-64,National citizens,466931
+Serbia,Female,55-64,Foreign citizens,1757
+Serbia,Female,65+,National citizens,846864
+Serbia,Female,65+,Foreign citizens,935
+Slovakia,Male,15-24,National citizens,268898
+Slovakia,Male,25-54,National citizens,1185058
+Slovakia,Male,25-54,Foreign citizens,6087
+Slovakia,Male,55-64,National citizens,325818
+Slovakia,Male,65+,National citizens,393202
+Slovakia,Female,15-24,National citizens,258120
+Slovakia,Female,25-54,National citizens,1132427
+Slovakia,Female,25-54,Foreign citizens,10309
+Slovakia,Female,55-64,National citizens,348464
+Slovakia,Female,65+,National citizens,568776
+Slovenia,Male,15-24,National citizens,101662
+Slovenia,Male,15-24,Foreign citizens,10879
+Slovenia,Male,25-54,National citizens,374474
+Slovenia,Male,25-54,Foreign citizens,56246
+Slovenia,Male,55-64,National citizens,147985
+Slovenia,Male,55-64,Foreign citizens,10727
+Slovenia,Male,65+,National citizens,184506
+Slovenia,Male,65+,Foreign citizens,3440
+Slovenia,Female,15-24,National citizens,87676
+Slovenia,Female,15-24,Foreign citizens,8646
+Slovenia,Female,25-54,National citizens,342142
+Slovenia,Female,25-54,Foreign citizens,44911
+Slovenia,Female,55-64,National citizens,148572
+Slovenia,Female,55-64,Foreign citizens,6455
+Slovenia,Female,65+,National citizens,234233
+Slovenia,Female,65+,Foreign citizens,2619
+Sweden,Male,15-24,National citizens,582597
+Sweden,Male,15-24,Foreign citizens,38708
+Sweden,Male,25-54,National citizens,1839966
+Sweden,Male,25-54,Foreign citizens,244590
+Sweden,Male,55-64,National citizens,611723
+Sweden,Male,55-64,Foreign citizens,29715
+Sweden,Male,65+,National citizens,963730
+Sweden,Male,65+,Foreign citizens,14988
+Sweden,Female,15-24,National citizens,543956
+Sweden,Female,15-24,Foreign citizens,37097
+Sweden,Female,25-54,National citizens,1771938
+Sweden,Female,25-54,Foreign citizens,222655
+Sweden,Female,55-64,National citizens,611415
+Sweden,Female,55-64,Foreign citizens,18560
+Sweden,Female,65+,National citizens,1040569
+Sweden,Female,65+,Foreign citizens,23033
