@@ -1,7 +1,7 @@
 import pandas as pd
 
 # -------------------- Read original CSV --------------------
-df = pd.read_csv("MST_XWAP_SEX_AGE_CCT_NB_A-filtered-2025-10-31.csv") # Ref.1
+df = pd.read_csv("Raw datasets/MST_XWAP_SEX_AGE_CCT_NB_A-filtered-2025-10-31.csv") # Ref.1
 
 # -------------------- Create a new DF with the needed columns and rename them --------------------
 df_final = df[["ref_area.label", "sex.label", "classif1.label", "classif2.label", "obs_value"]].copy() # Ref.2
