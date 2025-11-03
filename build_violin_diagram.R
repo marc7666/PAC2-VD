@@ -30,3 +30,4 @@ ggplot() +
   labs(x = "Assignatura", y = "Notes", title = "Distribució de notes per assignatura")
 
 
+

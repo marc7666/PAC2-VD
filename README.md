@@ -108,6 +108,8 @@ _Kernel smoother_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: ht
 
 _H&M Stores Dataset (2022)_ [en línia] [consulta: 29 d'octubre de 2025]. Disponible a: https://www.kaggle.com/datasets/shivamb/hm-stores-dataset
 
+**En aquest cas no ha estat necessària cap acció de neteja o modificació del dataset.**
+
 ## Referències externes (al codi - build_violin_diagram.R):
 
 [Ref.10] -- _Seleccionar columnas en R con dplyr_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://r-coder.com/select-dplyr-en-r/
