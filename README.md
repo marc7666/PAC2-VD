@@ -1,3 +1,21 @@
+# ***Descripció dels fitxers:***
+
+- Carpeta _Raw datasets_ --> Conté els datasets tal cual es descarreguen dels enllaços proporcionats per cada tècnica.
+
+- Allivail_data_cleaned.csv --> Dades netejades fer representar el _alluvial diagram_
+
+- Violin_data_cleaned.csv --> Dades netejades fer representar el _violin plot_
+
+- build_violin_diagram.R --> Script que construeix i printa el diagrama de violí (amb les dades netejades).
+
+- clean_alluvial_data.py --> Script per netejar el dataset del _alluvial diagram_
+
+- clean_violin_data.py --> Script per netejar el dataset del _violin plot_
+
+- violin_plot_png.png --> Diagrama de violí generat amb l'script .R
+
+- README.md --> Fitxer amb tots els enllaços utilitzats en la realització de la PAC
+
 # ***Estil de citació de les referències externes:***
 
 - ISO 690
