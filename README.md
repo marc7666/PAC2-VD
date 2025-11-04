@@ -122,6 +122,10 @@ _H&M Stores Dataset (2022)_ [en línia] [consulta: 29 d'octubre de 2025]. Dispon
 
 [Ref.14] -- _Modify axis, legend, and plot labels_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://ggplot2.tidyverse.org/reference/labs.html
 
+## Altres referències:
+
+_Círculo cromático_ [en línia] [consulta: 1 de novembre de 2025]. Disponible a: https://www.figma.com/es-es/circulo-cromatico/
+
 
 ## Links:
 
